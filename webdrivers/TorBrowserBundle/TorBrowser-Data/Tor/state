@@ -1,0 +1,32 @@
+# Tor state file last generated on 2017-08-26 20:52:44 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=D18C9C1BD9399CA303E1427C95D3E0ED000047B9 nickname=healides sampled_on=2017-08-26T20:01:07 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=9AA5AE2AB9D1F5A30B1CAFF705A9CD8408237669 nickname=questive sampled_on=2017-08-22T00:48:18 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=5B4E5A5447D46D57702D6D37DFEAE5A3979F2F09 nickname=b128 sampled_on=2017-08-24T13:39:20 sampled_by=0.3.0.10 listed=1 confirmed_on=2017-08-24T01:06:11 confirmed_idx=2
+Guard in=default rsa_id=71EA46C4623B31FC3CA9FCDB3C9E87684AF036E6 nickname=servbr3 sampled_on=2017-08-20T04:22:21 sampled_by=0.3.0.10 listed=1 confirmed_on=2017-08-16T19:00:48 confirmed_idx=1
+Guard in=default rsa_id=BCFB0933367D626715DA32A147F417194A5D48D6 nickname=sa1 sampled_on=2017-08-22T03:39:38 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=DB19E709C9EDB903F75F2E6CA95C84D637B62A02 nickname=wikimediaeqiad1 sampled_on=2017-08-23T10:53:55 sampled_by=0.3.0.10 listed=1 confirmed_on=2017-08-15T21:45:34 confirmed_idx=0 pb_use_attempts=1.000000 pb_use_successes=1.000000 pb_circ_attempts=5.000000 pb_circ_successes=5.000000 pb_successful_circuits_closed=5.000000
+Guard in=default rsa_id=361D33C96D0F161275EE67E2C91EE10B276E778B nickname=cxx4freedom sampled_on=2017-08-26T02:19:57 sampled_by=0.3.0.10 listed=1 confirmed_on=2017-08-21T05:15:23 confirmed_idx=3
+Guard in=default rsa_id=AA1B026EE0C8A958E29C67C7D8885FF27572269D nickname=Unnamed sampled_on=2017-08-25T19:51:52 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=2CBC24C3745100E8EDAEF8CCBAFD681893D74B00 nickname=FightLiberty sampled_on=2017-08-25T07:46:33 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=5E184FEA02B7C54172BBC757636F501047CF9691 nickname=pook0oow sampled_on=2017-08-22T19:14:37 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=75784DD2BCB70CE13CEC93CFE24CD69C66E2C67B nickname=TORxyz sampled_on=2017-08-18T21:29:26 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=50586E25BE067FD1F739998550EDDCB1A14CA5B2 nickname=Jans sampled_on=2017-08-19T02:24:13 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=B63626A3CA6F0521847853DDEC6D4044C80B903E nickname=trumaine sampled_on=2017-08-20T21:42:27 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=0CF8F3E6590F45D50B70F2F7DA6605ECA6CD408F nickname=torpidsFRonline4 sampled_on=2017-08-21T21:46:59 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=93706789377F78994A2B8C08CA5C8564ED35EADF nickname=Cenchria sampled_on=2017-08-15T17:48:52 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=9231DF741915AA1630031A93026D88726877E93A nickname=PrisnCellRelayFR1 sampled_on=2017-08-19T17:08:08 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=25B694EA95F825F156C5DAE5607B3375E86C0C4E nickname=darrieux sampled_on=2017-08-22T09:25:36 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=1C935588EE281630E488DFCCEDD6E533BDABBCEE nickname=Unnamed sampled_on=2017-08-22T22:11:20 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=66CA5474346F35E375C4D4514C51A540545347EE nickname=ToolspireRelay sampled_on=2017-08-23T18:54:08 sampled_by=0.3.0.10 listed=1
+Guard in=default rsa_id=0266B0660F3F20A7D1F3D8335931C95EF50F6C6B nickname=redjohn sampled_on=2017-08-19T13:11:19 sampled_by=0.3.0.10 listed=1
+TorVersion Tor 0.3.0.10 (git-c33db290a9d8d0f9)
+LastWritten 2017-08-27 03:52:44
+TotalBuildTimes 5
+CircuitBuildTimeBin 575 1
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 725 1
+CircuitBuildTimeBin 775 1
+CircuitBuildTimeBin 1275 1

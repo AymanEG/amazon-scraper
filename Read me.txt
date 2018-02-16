@@ -1,0 +1,18 @@
+Scraper script ~ Amzn_scraper__all_pages_v2.py
+
+In terminal, start Scraper script as:
+python Amzn_scraper__all_pages_v2.py
+
+This script takes Amazon web page link where search results are shown after you search for certain item as a starting link. The scrip opens the starting link page in a new Firefox web browser, scrapes all product names and writes them into prod_data/prod_data.csv file, then it opens each single product in new Firefox browser window and scrapes all image links into prod_data/prod_data_w_img_links.csv. And if set 'scrape_images' to True (default set to False) inside the script, it will also will scrape the images into prod_images folder giving them enumerated order which should be logically self explanatory as well as everything in csv files in prod_data folder.
+
+If there is pagination of search results, the script opens each page and does the same as above for the starting url.
+
+Note: starting url needs to be pasted into python script manually.
+
+Before starting the script, you need to open Tor browser, as the script uses Tor browser socket and port. The reason behind it is that as all url request will be sent through Tor, it will provide anonymity. Plus Tor browser has a functionality to switch IP addresses upon script request, so that each url request is sent through different IP address.
+
+The script uses certain webdriver, from webdrivers folder.
+
+When the script starts, geckodriver.log file is generated, it can be deleted after script is done.
+
+All the important version details are indicated at the beginning of the script file.

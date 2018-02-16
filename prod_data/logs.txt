@@ -1,0 +1,38 @@
+﻿====================================================================================================
+IP addres for products pages: 199.249.223.81
+ 
+﻿====================================================================================================
+Products curr_url:
+ https://www.amazon.com/s/ref=sr_pg_1?fst=as%3Aon&rh=n%3A1055398%2Cn%3A1063278%2Cn%3A1063298%2Cn%3A684541011%2Ck%3Aarea+rugs&keywords=area+rugs&ie=UTF8&qid=1501789698&spIA=B0168Y18HK,B0168Y1LOA,B01MYGFAXK,B06Y5VGDQJ,B073K1DKH5,B0742CVJRY,B06XSNH22G,B06XBHPFVK,B07424TKQX,B016WT6BNM,B06W5SXCXZ,B0716Y9D12,B01GIOSM2O,B00YFECHB2,B0168Y0DT4,B07427DB33,B01N3AMK9A,B06WGRJWW6,B01GS0VV62,B07428GBRN,B071JZLZN6,B01MUA3BTB,B00WGU6WSQ,B07234DWJX 
+
+Next products page 2 url:
+ https://www.amazon.com/s/ref=sr_pg_2/144-3276506-6989910?fst=as%3Aon&rh=n%3A1055398%2Cn%3A1063278%2Cn%3A1063298%2Cn%3A684541011%2Ck%3Aarea+rugs&page=2&keywords=area+rugs&ie=UTF8&qid=1506502638 
+
+﻿IP address for single product page: 199.249.223.74
+ Scraping single product :
+ https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_garden_sr_pg1_1?ie=UTF8&adId=A04204652LCJBZFIB758C&url=https%3A%2F%2Fwww.amazon.com%2FnuLOOM-Loomed-Diamond-Cotton-Check%2Fdp%2FB01HDWCIDO%2Fref%3Dsr_1_1_sspa%2F144-3276506-6989910%3Fs%3Dfurniture%26ie%3DUTF8%26qid%3D1506502638%26sr%3D1-1-spons%26keywords%3Darea%2Brugs%26psc%3D1&qualifier=1506502638&id=963497654872142&widgetName=sp_atf 
+
+﻿IP address for single product page: 162.220.246.230
+ Scraping single product :
+ https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_garden_sr_pg1_2?ie=UTF8&adId=A041901712GONJUTLRPVT&url=https%3A%2F%2Fwww.amazon.com%2FHand-Woven-Casual-Solid-Cotton%2Fdp%2FB01DW8IP8U%2Fref%3Dsr_1_2_sspa%2F144-3276506-6989910%3Fs%3Dfurniture%26ie%3DUTF8%26qid%3D1506502638%26sr%3D1-2-spons%26keywords%3Darea%2Brugs%26psc%3D1&qualifier=1506502638&id=963497654872142&widgetName=sp_atf 
+
+﻿IP address for single product page: 185.38.14.215
+ Scraping single product :
+ https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_garden_sr_pg1_3?ie=UTF8&adId=A0891368K6FGG6U103TJ&url=https%3A%2F%2Fwww.amazon.com%2FBoho-Area-Rugs-Retro-Floral%2Fdp%2FB01LZ6JXQ4%2Fref%3Dsr_1_3_sspa%2F144-3276506-6989910%3Fs%3Dfurniture%26ie%3DUTF8%26qid%3D1506502638%26sr%3D1-3-spons%26keywords%3Darea%2Brugs%26psc%3D1&qualifier=1506502638&id=963497654872142&widgetName=sp_atf 
+
+﻿IP address for single product page: 62.210.115.87
+ Scraping single product :
+ https://www.amazon.com/Sweet-Home-Stores-Collection-Contemporary/dp/B00W681BDY/ref=sr_1_4/144-3276506-6989910?s=furniture&ie=UTF8&qid=1506502638&sr=1-4&keywords=area+rugs 
+
+﻿IP address for single product page: 18.85.22.204
+ Scraping single product :
+ https://www.amazon.com/Ottomanson-Paterson-Collection-Contemporary-Moroccan/dp/B00XWDFAE8/ref=sr_1_5/144-3276506-6989910?s=furniture&ie=UTF8&qid=1506502638&sr=1-5&keywords=area+rugs 
+
+﻿IP address for single product page: 164.132.51.91
+ Scraping single product :
+ https://www.amazon.com/Safavieh-California-Collection-SG151-2727-Square/dp/B00GGOCQRE/ref=sr_1_6/144-3276506-6989910?s=furniture&ie=UTF8&qid=1506502638&sr=1-6&keywords=area+rugs 
+
+﻿IP address for single product page: 51.15.34.210
+ Scraping single product :
+ https://www.amazon.com/Unique-Loom-Modern-Graphite-Contemporary/dp/B0119S96D8/ref=sr_1_7/144-3276506-6989910?s=furniture&ie=UTF8&qid=1506502638&sr=1-7&keywords=area+rugs 
+
